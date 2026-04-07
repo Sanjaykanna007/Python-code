@@ -13,8 +13,6 @@ It is organized by topic for better clarity and learning.
 
 ## Folder Structure
 
-## Folder Structure
-
 ```
 Python-code/
 │
